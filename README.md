@@ -8,8 +8,8 @@ An audit company is evaluating the cases where Insurance has been claimed by Age
 ![Flow Chart](https://github.com/ag5613/InsuranceClaimPrediction/blob/master/FlowChar_2.png)
 
 ## The initial class distribution was:
-Label 0 (Claim - No) was present 98.53% in the dataset
+Label 0 (Claim - No) was present 98.53% in the dataset.
 
-Label 1 (Calim - Yes) was present 01.47% in the dataset
+Label 1 (Calim - Yes) was present 01.47% in the dataset.
 
 ![Class Distribution](https://github.com/ag5613/InsuranceClaimPrediction/blob/master/class_distribution.png)
