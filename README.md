@@ -4,8 +4,8 @@ An audit company is evaluating the cases where Insurance has been claimed by Age
 
 ## Following steps were followed to slove the problem 
 
-![Flow Chart](https://github.com/ag5613/InsuranceClaimPrediction/blob/master/FlowChar1.png)
-![Flow Chart](https://github.com/ag5613/InsuranceClaimPrediction/blob/master/FlowChar2.png)
+![Flow Chart](https://github.com/ag5613/InsuranceClaimPrediction/blob/master/FlowChar_1.png)
+![Flow Chart](https://github.com/ag5613/InsuranceClaimPrediction/blob/master/FlowChar_2.png)
 
 ## The initial class distribution was:
 Label 0 (Claim - No) was present 98.53% in the dataset
